@@ -1,4 +1,4 @@
-import 'dart:io';
+
 import 'package:flutter_skilaverk_1/data/questions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_skilaverk_1/questions_screen.dart';
